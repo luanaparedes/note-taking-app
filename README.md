@@ -6,7 +6,7 @@ The Note Taking Application allows users to save and store impotant notes. Users
 
 ## Installation
 
-To install or deploy the Note Taking App click [this link](ADD LINK)!
+To install or deploy the Note Taking App click [this link](https://lp-note-taking-app.herokuapp.com/notes)!
 
 ## Usage
 
